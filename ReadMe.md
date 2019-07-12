@@ -11,7 +11,8 @@ Review Link: https://xd.adobe.com/view/8f3edb8a-52dc-4f8d-517b-fbd775d253c9-f90f
 Development Link: https://xd.adobe.com/spec/fb8264b2-22e9-464c-4410-538832953b39-8db3/
 
 **_Note: The Review  & Development link might not work in future iterations as adobe xd only allows free accounts to have 1 project at a time with links to review & development_**
-with that being said there is a local copy of the entire project in the Sketched & Mockups folder.
+
+There is a local copy of the entire project in the Sketched & Mockups folder.
 
 The live production version of this project is avaliable here -> https://devfindr.com
 
