@@ -12,7 +12,7 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g id="Blob_CTA" data-name="Blob CTA" transform="translate(18.017 15.997)">
+  <g id="Blob_CTA" data-name="Blob CTA" transform="translate(18.019 15.997)">
     <g id="Layer_5" data-name="Layer 5">
       <g transform="matrix(1, 0, 0, 1, -18.02, -16)" filter="url(#Path_1261)">
         <path id="Path_1261-2" data-name="Path 1261" d="M2.56,23.73A14.75,14.75,0,0,0,11,28.47c5.52,1.23,11.65.44,16.15-3C37.41,17.76,32.05,2,19.9.15,8.57-1.62-6,13,2.56,23.73Z" transform="translate(18.02 16)" fill="url(#linear-gradient)"/>
